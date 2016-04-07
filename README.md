@@ -3,7 +3,8 @@
 
 ### what I do
 * 最低适配 iOS 7.0
+* 删除 storyboard、launchscreen
+* 搭建主流 app 框架
 * 修改 plist 允许 http 请求
 * 集成 AFNetworking、SDWebImage、MJExtension、MJRefresh
-* 搭建主流 app 框架
 * 添加 UIView 分类，方便修改 frame
